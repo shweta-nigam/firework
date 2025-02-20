@@ -10,7 +10,7 @@ CSS: For styling and animations.
 JavaScript: For the logic and interactivity.
 
 🌟 Features
-Interactive Fireworks: Click to create fireworks anywhere on the screen.
+Interactive Fireworks: Click button to create fireworks on the screen.
 Colorful Explosions: Random colors for each firework.
 Smooth Animations: Beautiful and smooth animations for a realistic effect.
 
