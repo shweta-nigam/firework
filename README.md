@@ -1,7 +1,7 @@
 🎆 Firework Project
 Welcome to the Firework Project! This is a fun and interactive project that simulates fireworks exploding in the sky. Perfect for celebrations or just to add some sparkle to your day! ✨
 I tried to imitiate the firework. I Used JS loops to generte certaine numbers of sparkels.
-Demo code: 
+Demo code: https://shweta-nigam.github.io/firework/
 
 
 🛠️ Technologies Used
